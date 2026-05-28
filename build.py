@@ -151,6 +151,24 @@ def build_playlist(catalog: list[Channel]) -> tuple[str, list[tuple[str, str]]]:
 
     for cat in CATEGORIES:
         for spec in cat["channels"]:
+            # URL-override: если в spec прописан url — берём его, не ищем
+            # в iptv-org. Используется для каналов, найденных в smolnp
+            # или других сторонних источниках. Логотип можно задать через
+            # spec["logo"], user-agent — через spec["ua"].
+            if spec.get("url"):
+                logo = spec.get("logo", "")
+                ua = spec.get("ua", "")
+                attrs = f'tvg-name="{spec["name"]}"'
+                if logo:
+                    attrs += f' tvg-logo="{logo}"'
+                if ua:
+                    attrs += f' http-user-agent="{ua}"'
+                attrs += f' group-title="{cat["title"]}"'
+                lines.append(f"#EXTINF:-1 {attrs},{spec['name']}")
+                lines.append(spec["url"])
+                matched += 1
+                continue
+
             ch = find_channel(spec, catalog)
             if ch is None:
                 missing.append((cat["title"], spec["name"]))
