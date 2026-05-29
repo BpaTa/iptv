@@ -360,7 +360,7 @@ http://31.148.48.15/Sankt_Peterburg/index.m3u8
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa@SD" tvg-logo="https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png" group-title="🕌 Ислам" tvg-name="Al Quran Al Kareem (Мекка)",Al Quran Al Kareem (Мекка)
 https://aloula-redirect.vercel.app/7/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa@SD" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="🕌 Ислам" tvg-name="Al Sunnah Al Nabawiyah (Медина)",Al Sunnah Al Nabawiyah (Медина)
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+https://aloula-redirect.vercel.app/6/playlist.m3u8
 #EXTINF:-1 tvg-id="PeaceTVEnglish.ae@SD" tvg-logo="https://i.imgur.com/rjgCM2B.png" group-title="🕌 Ислам" tvg-name="Peace TV English",Peace TV English
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-id="HudaTV.eg@SD" tvg-logo="https://i.imgur.com/1UUjU26.png" group-title="🕌 Ислам" tvg-name="Huda TV",Huda TV
