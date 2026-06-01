@@ -18,6 +18,7 @@ amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv
 amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv
 bl.rutube.ru
 bsttv.bonus-tv.ru
+cbsn-us-vtt.cbsnstream.cbsnews.com
 cdn-01.bonus-tv.ru
 cdn-evacoder-tv.facecast.io
 cdn-uw2-prod.tsv2.amagi.tv
@@ -26,6 +27,7 @@ cdn.ntv.ru
 cdn4.skygo.mn
 chanson-video.hostingradio.ru
 cors-proxy.cooks.fyi
+d1daq1khzqxpku.cloudfront.net
 d1mgh147xpmgs8.cloudfront.net
 d1si3n1st4nkgb.cloudfront.net
 d2ah48mnofquik.cloudfront.net
@@ -43,7 +45,6 @@ fastly.live.brightcove.com
 hls.mirtv.cdnvideo.ru
 igi-hls.cdnvideo.ru
 ingushetia.mediacdn.ru
-jmp2.uk
 lds-timeline-rakuten.amagi.tv
 live-hls-apps-aje-fa.getaj.net
 live-ugratv.cdnvideo.ru
