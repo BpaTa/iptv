@@ -16,6 +16,7 @@ amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv
 amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv
 amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv
 amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv
+amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv
 bl.rutube.ru
 bsttv.bonus-tv.ru
 cdn-01.bonus-tv.ru
@@ -36,7 +37,6 @@ dash4.antik.sk
 dazn-combat-rakuten.amagi.tv
 dk0n7jh428tzj.cloudfront.net
 donmedia.bonus-tv.ru
-dwamdstream102.akamaized.net
 dz05z8iljgvbe.cloudfront.net
 dzkyvlfyge.erbvr.com
 fastly.live.brightcove.com
