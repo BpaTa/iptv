@@ -161,8 +161,8 @@ https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
 http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 #EXTINF:-1 tvg-id="Ani.ru@SD" tvg-logo="https://i.imgur.com/i2AP0hp.png" group-title="👶 Детям" tvg-name="Ani",Ani
 http://31.148.48.15/Ani/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="👶 Детям" tvg-name="Disney Channel",Disney Channel
-http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="👶 Детям" tvg-name="Disney Channel",Disney Channel
+https://cdn.telecloud.tv/CH16265/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJr.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" group-title="👶 Детям" tvg-name="Disney Junior",Disney Junior
 http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.es@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="👶 Детям" tvg-name="Nickelodeon",Nickelodeon
