@@ -23,7 +23,6 @@ cdn-01.bonus-tv.ru
 cdn-evacoder-tv.facecast.io
 cdn-uw2-prod.tsv2.amagi.tv
 cdn.bestream.io
-cdn.telecloud.tv
 cdn4.skygo.mn
 chanson-video.hostingradio.ru
 cors-proxy.cooks.fyi
