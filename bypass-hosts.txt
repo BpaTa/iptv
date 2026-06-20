@@ -59,7 +59,6 @@ osir.mediacdn.ru
 planeta.mediacdn.ru
 player.smotrim.ru
 public.streaming.matur-tv.ru
-radm.mediacdn.ru
 rt-doc.rttv.com
 rtmp.one.by
 rusbrics.mediacdn.ru
