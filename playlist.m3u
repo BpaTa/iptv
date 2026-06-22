@@ -229,8 +229,6 @@ https://dz05z8iljgvbe.cloudfront.net/master.m3u8
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us@UK" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="💎 Премиум-кино" tvg-name="MovieSphere UK",MovieSphere UK
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ZvezdaPlus.ru@SD" tvg-logo="https://i.imgur.com/NNmjD9Z.png" group-title="📚 Культура и наука" tvg-name="Звезда Плюс",Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 tvg-id="Istoriya.ru@SD" tvg-logo="https://i.imgur.com/eEjPail.png" group-title="📚 Культура и наука" tvg-name="История",История
 http://31.148.48.15/Istoriya/index.m3u8
 #EXTINF:-1 tvg-id="Nauka.ru@SD" tvg-logo="https://i.imgur.com/ZZxzueO.png" group-title="📚 Культура и наука" tvg-name="НАУКА",НАУКА
@@ -279,16 +277,12 @@ https://d1mgh147xpmgs8.cloudfront.net/DeadlyWomen_GB.m3u8
 https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="KukhnyaTV.ru@SD" tvg-logo="https://i.imgur.com/7jxZnuS.png" group-title="🍳 Дом и стиль" tvg-name="Кухня ТВ",Кухня ТВ
 http://31.148.48.15/Kuhnya_TV/index.m3u8
-#EXTINF:-1 tvg-id="Telecafe.ru@SD" tvg-logo="https://i.imgur.com/1H3h1HL.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="🍳 Дом и стиль" tvg-name="Телекафе",Телекафе
-https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
 #EXTINF:-1 tvg-id="FoodTime.ru@SD" tvg-logo="https://i.imgur.com/gxCYAwH.png" group-title="🍳 Дом и стиль" tvg-name="FoodTime",FoodTime
 http://31.148.48.15/Eda_Premium_HD/index.m3u8
 #EXTINF:-1 tvg-id="Doctor.ru@SD" tvg-logo="https://i.imgur.com/VNirxxn.png" group-title="🍳 Дом и стиль" tvg-name="Доктор",Доктор
 http://31.148.48.15/Doktor/index.m3u8
 #EXTINF:-1 tvg-id="Zhivi.ru@SD" tvg-logo="https://i.imgur.com/LPqySGk.png" group-title="🍳 Дом и стиль" tvg-name="ЖИВИ!",ЖИВИ!
 http://31.148.48.15/Zhivi/index.m3u8
-#EXTINF:-1 tvg-id="ZdorovoeTV.ru@SD" tvg-logo="https://i.imgur.com/jedtE5l.png" group-title="🍳 Дом и стиль" tvg-name="Здоровое ТВ",Здоровое ТВ
-http://31.148.48.15/Zdorovoe_TV/index.m3u8
 #EXTINF:-1 tvg-id="FashionLifeStyle.ru@SD" tvg-logo="https://i.imgur.com/ETmpllL.png" group-title="🍳 Дом и стиль" tvg-name="FASHION & LIFESTYLE",FASHION & LIFESTYLE
 http://31.148.48.15/Fashion_One_HD/index.m3u8
 #EXTINF:-1 tvg-name="Усадьба" group-title="🍳 Дом и стиль",Усадьба
@@ -298,7 +292,7 @@ https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Pro100TV.ru@SD" tvg-logo="https://i.imgur.com/YfQEflM.png" group-title="🍳 Дом и стиль" tvg-name="Pro100TV",Pro100TV
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-id="Drive.ru@SD" tvg-logo="https://i.imgur.com/FnuwfSC.png" group-title="🚗 Авто и путешествия" tvg-name="Drive",Drive
-https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
+http://de.russkoe-iptv.com:88/s/s-e3dc39e0/drive-hd.m3u8
 #EXTINF:-1 tvg-id="RTGTV.ru@SD" tvg-logo="https://i.imgur.com/ZMKPAho.png" group-title="🚗 Авто и путешествия" tvg-name="RTG TV",RTG TV
 http://31.148.48.15/RTG_HD/index.m3u8
 #EXTINF:-1 tvg-id="Teleputeshestviya.ru@SD" tvg-logo="https://i.imgur.com/eXJm1n3.png" group-title="🚗 Авто и путешествия" tvg-name="Телепутешествия",Телепутешествия

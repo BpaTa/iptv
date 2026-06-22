@@ -34,6 +34,7 @@ d3b6q2ou5kp8ke.cloudfront.net
 dagestan.mediacdn.ru
 dash4.antik.sk
 dazn-combat-rakuten.amagi.tv
+de.russkoe-iptv.com
 dk0n7jh428tzj.cloudfront.net
 donmedia.bonus-tv.ru
 dz05z8iljgvbe.cloudfront.net
@@ -70,7 +71,6 @@ streams2.sofast.tv
 tv-trtworld.medya.trt.com.tr
 tv.mediacdn.ru
 tvoetv.space
-tvzvezda.bonus-tv.ru
 uiptv.do.am
 vgtrkregion-reg.cdnvideo.ru
 xykt-fix.github.io
