@@ -1,6 +1,7 @@
 103.58.160.157
 151.80.18.177
 176.118.197.101
+185.102.171.218
 23.237.104.106
 31.148.48.15
 45.145.32.13
@@ -9,13 +10,13 @@
 9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com
 a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com
 abc-news-dmd-streams-1.akamaized.net
+adpnetworkhd-cmd.github.io
 aegis-cloudfront-1.tubi.video
 aloula-redirect.vercel.app
 amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv
 amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv
 amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv
 amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv
-amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv
 amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv
 bl.rutube.ru
 bsttv.bonus-tv.ru
