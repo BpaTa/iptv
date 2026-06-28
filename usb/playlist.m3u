@@ -51,8 +51,6 @@ https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJh
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 tvg-id="CBSNews247.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png" group-title="🌍 Международные новости" tvg-name="CBS News",CBS News
 https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8
-#EXTINF:-1 tvg-id="TNT.ru@SD" tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="🎭 Развлекательные" tvg-name="ТНТ",ТНТ
-http://31.148.48.15/TNT/index.m3u8
 #EXTINF:-1 tvg-id="TNT4.ru@SD" tvg-logo="https://i.imgur.com/gBokU5i.png" group-title="🎭 Развлекательные" tvg-name="ТНТ4",ТНТ4
 http://31.148.48.15/TNT4/index.m3u8
 #EXTINF:-1 tvg-id="FridayInternational.ru@SD" tvg-logo="https://i.imgur.com/N2z3EZC.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="🎭 Развлекательные" tvg-name="Пятница!",Пятница!
