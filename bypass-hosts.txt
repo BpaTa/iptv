@@ -70,3 +70,4 @@ tv.mediacdn.ru
 tvoetv.space
 uiptv.do.am
 vgtrkregion-reg.cdnvideo.ru
+vod.tuva.ru
