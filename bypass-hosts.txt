@@ -23,7 +23,6 @@ cdn-01.bonus-tv.ru
 cdn-evacoder-tv.facecast.io
 cdn-uw2-prod.tsv2.amagi.tv
 cdn.bestream.io
-cdn.haititivi.com
 cdn4.skygo.mn
 chanson-video.hostingradio.ru
 d1mgh147xpmgs8.cloudfront.net
@@ -66,9 +65,11 @@ sdn-global-live-streaming-packager-cache.3qsdn.com
 sirius.greenhosting.ru
 stream8.cinerama.uz
 streams2.sofast.tv
+streamvidex.qzz.io
 tv-trtworld.medya.trt.com.tr
 tv.mediacdn.ru
 tvoetv.space
 uiptv.do.am
 vgtrkregion-reg.cdnvideo.ru
 vod.tuva.ru
+zabava-htlive.cdn.ngenix.net
