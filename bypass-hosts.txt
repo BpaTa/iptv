@@ -4,6 +4,7 @@
 23.237.104.106
 31.148.48.15
 45.145.32.13
+46.32.176.50
 86fdc85a.wurl.com
 93.84.115.174
 9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com
