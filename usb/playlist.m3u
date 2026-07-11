@@ -81,6 +81,8 @@ http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 http://31.148.48.15/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 tvg-id="FirstMusicChannel.by@SD" tvg-logo="https://i.imgur.com/YdyFJrl.png" group-title="🎵 Музыка" tvg-name="Первый Музыкальный",Первый Музыкальный
 http://rtmp.one.by:1300
+#EXTINF:-1 tvg-id="VIVARussia.ru@SD" tvg-logo="https://i.imgur.com/OFhQQCD.png" group-title="🎵 Музыка" tvg-name="VIVA Russia",VIVA Russia
+https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1 tvg-id="15PlusMusic.ru@HD" tvg-logo="https://i.imgur.com/kj21hwd.png" group-title="🎵 Музыка" tvg-name="15+ Music",15+ Music
 https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
 #EXTINF:-1 tvg-id="RadioShanson.ru@SD" tvg-logo="https://i.imgur.com/lbqM3K2.png" group-title="🎵 Музыка" tvg-name="Радио Шансон",Радио Шансон
