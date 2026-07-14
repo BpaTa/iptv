@@ -2,9 +2,11 @@
 176.118.197.101
 23.237.104.106
 31.148.48.15
+40.160.24.52
 45.145.32.13
 45.190.28.50
 46.32.176.50
+85.237.89.160
 86fdc85a.wurl.com
 93.84.115.174
 9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com
@@ -22,7 +24,6 @@ bl.rutube.ru
 bsttv.bonus-tv.ru
 cdn-01.bonus-tv.ru
 cdn-evacoder-tv.facecast.io
-cdn-uw2-prod.tsv2.amagi.tv
 cdn.bestream.io
 cdn4.skygo.mn
 chanson-video.hostingradio.ru
@@ -32,7 +33,6 @@ d2ah48mnofquik.cloudfront.net
 d39g1vxj2ef6in.cloudfront.net
 d3b6q2ou5kp8ke.cloudfront.net
 dagestan.mediacdn.ru
-dazn-combat-rakuten.amagi.tv
 de.russkoe-iptv.com
 dk0n7jh428tzj.cloudfront.net
 donmedia.bonus-tv.ru
@@ -44,6 +44,7 @@ igi-hls.cdnvideo.ru
 ingushetia.mediacdn.ru
 jmp2.uk
 lds-timeline-rakuten.amagi.tv
+live-3.otcnet.ru
 live-hls-apps-aje-fa.getaj.net
 live-ugratv.cdnvideo.ru
 live-vgtrksmotrim.cdnvideo.ru
@@ -66,11 +67,7 @@ sdn-global-live-streaming-packager-cache.3qsdn.com
 sirius.greenhosting.ru
 stream8.cinerama.uz
 streams2.sofast.tv
-streamvidex.qzz.io
 tv-trtworld.medya.trt.com.tr
-tv.mediacdn.ru
 tvoetv.space
-uiptv.do.am
 vgtrkregion-reg.cdnvideo.ru
-vod.tuva.ru
 zabava-htlive.cdn.ngenix.net
