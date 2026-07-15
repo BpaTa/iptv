@@ -17,8 +17,6 @@ https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/ind
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="📰 Новости" tvg-name="Euronews",Euronews
 http://45.190.28.50/EURONEWS_HD/index.m3u8
-#EXTINF:-1 tvg-id="VestiFM.ru@HD" tvg-logo="https://i.imgur.com/ZBHqSZj.png" group-title="📰 Новости" tvg-name="Вести ФМ",Вести ФМ
-https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
 #EXTINF:-1 tvg-id="CGTNRussian.cn@SD" tvg-logo="https://i.imgur.com/nDWkCmL.png" group-title="🌍 Международные новости" tvg-name="CGTN Русский",CGTN Русский
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus24.by@SD" tvg-logo="https://i.imgur.com/BP7tY6F.png" group-title="🌍 Международные новости" tvg-name="Беларусь 24",Беларусь 24

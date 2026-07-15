@@ -57,7 +57,6 @@ moviesphereuk-samsunguk.amagi.tv
 ngtrk.dc.beltelecom.by
 osir.mediacdn.ru
 planeta.mediacdn.ru
-player.smotrim.ru
 public.streaming.matur-tv.ru
 rt-doc.rttv.com
 rtmp.one.by
