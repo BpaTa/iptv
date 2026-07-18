@@ -65,7 +65,7 @@ CATEGORIES = [
             #{"name": "CGTN English",        "patterns": [r"^CGTN \(1080"],                 "prefer": "1080"},
             #{"name": "TV BRICS Russian",    "patterns": [r"^TV BRICS Russian"],            "prefer": "1080"},
             #{"name": "Euronews English",    "patterns": [r"^Euronews English HD"],         "prefer": ""},
-            {#"name": "TRT World",           "patterns": [r"^TRT World"],                   "prefer": "1080"},
+            #{"name": "TRT World",           "patterns": [r"^TRT World"],                   "prefer": "1080"},
             #{"name": "Reuters",             "patterns": [r"^Reuters \(1080"],              "prefer": "1080"},
             #{"name": "i24NEWS English",     "patterns": [r"^i24NEWS English USA"],         "prefer": "1080"},
             #{"name": "ABC News",            "patterns": [r"^ABC News \(720"],              "prefer": "720"},
