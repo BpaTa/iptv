@@ -70,7 +70,7 @@ CATEGORIES = [
             #{"name": "i24NEWS English",     "patterns": [r"^i24NEWS English USA"],         "prefer": "1080"},
             #{"name": "ABC News",            "patterns": [r"^ABC News \(720"],              "prefer": "720"},
             #{"name": "CBS News",            "patterns": [r"^CBS News 24/7"],               "prefer": "720"},
-        ],
+        #],
     },
     # ──────────────────────────────────────────────────────────────────
     {
@@ -136,7 +136,7 @@ CATEGORIES = [
             # это поток TNT Music под брендом FON Music).
             #{"name": "FON Music", "patterns": [],
             # "url": "https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8"},
-        ],
+        #],
     },
     # ──────────────────────────────────────────────────────────────────
     {
@@ -160,7 +160,7 @@ CATEGORIES = [
             #{"name": "Stingray CMusic",            "patterns": [r"^Stingray CMusic"],            "prefer": "1080"},
             #{"name": "Stingray Naturescape",       "patterns": [r"^Stingray Naturescape"],       "prefer": "1080"},
             #{"name": "Stingray Karaoke",           "patterns": [r"^Stingray Karaoke"],           "prefer": "1080"},
-        ],
+        #],
     },
     # ──────────────────────────────────────────────────────────────────
     {
@@ -207,7 +207,7 @@ CATEGORIES = [
             # Premier Sports 1/2 удалены: UK-only, 403.
             #{"name": "DAZN Combat",         "patterns": [r"^DAZN Combat"],                 "prefer": "1080"},
             #{"name": "ESPN8 The Ocho",      "patterns": [r"^ESPN8 The Ocho"],              "prefer": "1080"},
-        ],
+        #],
     },
     # ──────────────────────────────────────────────────────────────────
     {
@@ -320,7 +320,7 @@ CATEGORIES = [
             #{"name": "Dateline 24/7",       "patterns": [r"^Dateline 24/7"],               "prefer": "1080"},
             #{"name": "Deadly Women",        "patterns": [r"^Deadly Women"],                "prefer": "1080"},
             #{"name": "DangerTV",            "patterns": [r"^DangerTV"],                    "prefer": "720"},
-        ],
+        #],
     },
     # ──────────────────────────────────────────────────────────────────
     {
@@ -350,7 +350,7 @@ CATEGORIES = [
             #{"name": "RTG TV",              "patterns": [r"^RTG TV"],                      "prefer": "720"},
             #{"name": "Телепутешествия",     "patterns": [r"^Телепутешествия"],             "prefer": "576"},
             #{"name": "Охотник и рыболов",   "patterns": [r"^Ohotnik i rybolov"],           "prefer": "576"},
-        ],
+        #],
     },
     # ──────────────────────────────────────────────────────────────────
     {
@@ -373,7 +373,7 @@ CATEGORIES = [
             #{"name": "Аист ТВ",             "patterns": [r"^Аист ТВ"],                     "prefer": "1080"},
             #{"name": "Югра",                "patterns": [r"^Югра"],                        "prefer": "1080"},
             #{"name": "Санкт-Петербург",     "patterns": [r"^Санкт-Петербург \("],          "prefer": "576"},
-        ],
+        #],
     },
     # ──────────────────────────────────────────────────────────────────
     # Категория «Православие» удалена по запросу пользователя.
