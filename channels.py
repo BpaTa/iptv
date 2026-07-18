@@ -408,7 +408,7 @@ CATEGORIES = [
             # проповеди, ответы на вопросы.
             #{"name": "Huda TV",
             # "patterns": [r"^Huda TV"], "prefer": "720"},
-        ],
+        #],
     },
 ]
 
