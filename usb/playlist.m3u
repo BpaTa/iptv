@@ -148,7 +148,7 @@ http://31.148.48.15/Match_Strana/index.m3u8
 #EXTINF:-1 tvg-id="KHL.ru@SD" tvg-logo="https://i.imgur.com/RgdHdOV.png" group-title="⚽ Спорт" tvg-name="КХЛ",КХЛ
 http://31.148.48.15/KHL_TV/index.m3u8
 #EXTINF:-1 tvg-id="KHLPrime.ru@SD" tvg-logo="https://i.imgur.com/pwxT0ON.png" group-title="⚽ Спорт" tvg-name="КХЛ Прайм",КХЛ Прайм
-http://31.148.48.15/KHL_TV_HD/index.m3u8
+http://stream.mcquack.net/178/index.m3u8
 #EXTINF:-1 tvg-id="Football.ru@SD" tvg-logo="https://i.imgur.com/pEuaZVx.png" group-title="⚽ Спорт" tvg-name="Футбол",Футбол
 http://31.148.48.15/Futbol_HD/index.m3u8
 #EXTINF:-1 tvg-id="BoksTV.ru@SD" tvg-logo="https://i.imgur.com/R1UjyfX.png" group-title="⚽ Спорт" tvg-name="Бокс ТВ",Бокс ТВ
@@ -179,10 +179,6 @@ http://31.148.48.15/Kineko_HD/index.m3u8
 http://31.148.48.15/Illusion_plus/index.m3u8
 #EXTINF:-1 tvg-id="RusskiyIllusion.ru@SD" tvg-logo="https://i.imgur.com/RlsqFN8.png" group-title="🎬 Кино и сериалы" tvg-name="Русский Иллюзион",Русский Иллюзион
 http://31.148.48.15/Russkiy_illusion/index.m3u8
-#EXTINF:-1 tvg-id="RusskiyBestseller.ru@SD" tvg-logo="https://i.imgur.com/w0ZE9QJ.png" group-title="🎬 Кино и сериалы" tvg-name="Русский Бестселлер",Русский Бестселлер
-http://31.148.48.15/Russkiy_Bestseller/index.m3u8
-#EXTINF:-1 tvg-id="RusskiyDetektiv.ru@SD" tvg-logo="https://i.imgur.com/H3qhN8S.png" group-title="🎬 Кино и сериалы" tvg-name="Русский Детектив",Русский Детектив
-http://31.148.48.15/Russkiy_Detektiv/index.m3u8
 #EXTINF:-1 tvg-id="Russkiyroman.ru@SD" tvg-logo="https://i.imgur.com/cQN0P2B.png" group-title="🎬 Кино и сериалы" tvg-name="Русский Роман",Русский Роман
 http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
 #EXTINF:-1 tvg-id="NovyiRusskii.ru@HD" tvg-logo="https://i.imgur.com/iuRSScH.png" group-title="🎬 Кино и сериалы" tvg-name="Новый Русский",Новый Русский
@@ -192,7 +188,7 @@ http://31.148.48.15/Mir_Seriala/index.m3u8
 #EXTINF:-1 tvg-name="Amedia Premium" group-title="🎬 Кино и сериалы",Amedia Premium
 http://45.145.32.13:20440/amedia_premium_hd/index.m3u8?token=test
 #EXTINF:-1 tvg-id="AmediaHit.ru@SD" tvg-logo="https://i.imgur.com/a8ZBGBw.png" group-title="🎬 Кино и сериалы" tvg-name="Amedia Hit",Amedia Hit
-http://31.148.48.15/Amedia_HIT_HD/index.m3u8
+http://stream.mcquack.net/162/index.m3u8
 #EXTINF:-1 tvg-id="SmotrimChestnyyDetektiv.ru@SD" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg" group-title="🎬 Кино и сериалы" tvg-name="Смотрим Честный Детектив",Смотрим Честный Детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinema.mn@SD" tvg-logo="https://i.imgur.com/yib6dM2.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="💎 Премиум-кино" tvg-name="Cinema",Cinema
@@ -240,7 +236,7 @@ https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playl
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="🌎 Премиум док." tvg-name="CGTN Documentary",CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us@SD" tvg-logo="https://i.imgur.com/qkfe3o9.png" group-title="🔍 Криминал и расследования" tvg-name="Court TV",Court TV
-http://40.160.24.52/COURT_TV/index.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD" tvg-logo="https://i.imgur.com/8mAJuut.png" group-title="🔍 Криминал и расследования" tvg-name="Dateline 24/7",Dateline 24/7
 https://d1si3n1st4nkgb.cloudfront.net/10502/88896029/hls/master.m3u8?ads.xumo_channelId=88896029
 #EXTINF:-1 tvg-id="DeadlyWomen.us@UK" tvg-logo="https://i.imgur.com/dDVZ5Vd.png" group-title="🔍 Криминал и расследования" tvg-name="Deadly Women",Deadly Women
@@ -253,8 +249,6 @@ http://31.148.48.15/Eda_Premium_HD/index.m3u8
 http://31.148.48.15/Doktor/index.m3u8
 #EXTINF:-1 tvg-id="Zhivi.ru@SD" tvg-logo="https://i.imgur.com/LPqySGk.png" group-title="🍳 Дом и стиль" tvg-name="ЖИВИ!",ЖИВИ!
 http://31.148.48.15/Zhivi/index.m3u8
-#EXTINF:-1 tvg-id="FashionLifeStyle.ru@SD" tvg-logo="https://i.imgur.com/ETmpllL.png" group-title="🍳 Дом и стиль" tvg-name="FASHION & LIFESTYLE",FASHION & LIFESTYLE
-http://31.148.48.15/Fashion_One_HD/index.m3u8
 #EXTINF:-1 tvg-name="Усадьба" group-title="🍳 Дом и стиль",Усадьба
 https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Zoopark.ru@SD" tvg-logo="https://i.imgur.com/IO5jegK.png" group-title="🍳 Дом и стиль" tvg-name="Зоопарк",Зоопарк

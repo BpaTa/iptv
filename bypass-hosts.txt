@@ -2,7 +2,6 @@
 176.118.197.101
 23.237.104.106
 31.148.48.15
-40.160.24.52
 45.145.32.13
 45.190.28.50
 46.32.176.50
@@ -24,6 +23,7 @@ bl.rutube.ru
 bsttv.bonus-tv.ru
 cdn-01.bonus-tv.ru
 cdn-evacoder-tv.facecast.io
+cdn-uw2-prod.tsv2.amagi.tv
 cdn.bestream.io
 cdn4.skygo.mn
 chanson-video.hostingradio.ru
@@ -64,6 +64,7 @@ rusbrics.mediacdn.ru
 russian-livews.cgtn.com
 sdn-global-live-streaming-packager-cache.3qsdn.com
 sirius.greenhosting.ru
+stream.mcquack.net
 stream8.cinerama.uz
 streams2.sofast.tv
 tv-trtworld.medya.trt.com.tr
