@@ -1,6 +1,7 @@
 151.80.18.177
 176.118.197.101
 31.148.48.15
+40.160.24.52
 45.145.32.13
 45.190.28.50
 46.32.176.50
@@ -13,6 +14,7 @@ amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv
 amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv
 bl.rutube.ru
 cdn-evacoder-tv.facecast.io
+cdn.qd.je
 cdn4.skygo.mn
 d2ah48mnofquik.cloudfront.net
 dz05z8iljgvbe.cloudfront.net
@@ -27,7 +29,6 @@ moviesphereuk-samsunguk.amagi.tv
 planeta.mediacdn.ru
 rt-doc.rttv.com
 sirius.greenhosting.ru
-starlite.best
 stream.mcquack.net
 stream8.cinerama.uz
 tvoetv.space
