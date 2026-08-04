@@ -109,8 +109,8 @@ https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 http://31.148.48.15/Terra_HD/index.m3u8
 #EXTINF:-1 tvg-id="ZhivayaPlaneta.ru@SD" tvg-logo="https://i.imgur.com/onNv1tM.png" group-title="📚 Культура и наука" tvg-name="Живая Планета",Живая Планета
 http://31.148.48.15/Zhivaya_Planeta/index.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.uk@US" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="🌎 Премиум док." tvg-name="BBC Earth",BBC Earth
-https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk@Poland" tvg-logo="https://i.imgur.com/nGSsUd4.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="🌎 Премиум док." tvg-name="BBC Earth",BBC Earth
+http://starcius-cinema.com/11586/index.m3u8
 #EXTINF:-1 tvg-id="HistoryHit.uk@SD" tvg-logo="https://i.imgur.com/ulHoqlP.png" group-title="🌎 Премиум док." tvg-name="History Hit",History Hit
 https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TopGear.uk@SD" tvg-logo="https://i.imgur.com/S6Su6QH.png" group-title="🌎 Премиум док." tvg-name="Top Gear",Top Gear
