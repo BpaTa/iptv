@@ -2,6 +2,7 @@
 176.118.197.101
 23.237.104.106
 31.148.48.15
+40.160.24.52
 45.145.32.13
 45.190.28.50
 46.32.176.50
@@ -24,7 +25,6 @@ lds-timeline-rakuten.amagi.tv
 live-3.otcnet.ru
 live-vgtrksmotrim.cdnvideo.ru
 live.15plusmg.ru
-messi.damitv.st
 moviesphereuk-samsunguk.amagi.tv
 planeta.mediacdn.ru
 rt-doc.rttv.com
