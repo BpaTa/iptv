@@ -12,6 +12,7 @@ a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com
 aegis-cloudfront-1.tubi.video
 amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv
 amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv
+amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv
 bl.rutube.ru
 cdn-evacoder-tv.facecast.io
 cdn.qd.je
@@ -29,7 +30,6 @@ moviesphereuk-samsunguk.amagi.tv
 planeta.mediacdn.ru
 rt-doc.rttv.com
 sirius.greenhosting.ru
-starcius-cinema.com
 stream.mcquack.net
 stream8.cinerama.uz
 tvoetv.space
