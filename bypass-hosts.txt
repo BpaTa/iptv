@@ -15,7 +15,7 @@ amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv
 amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv
 bl.rutube.ru
 cdn-evacoder-tv.facecast.io
-cdn.qd.je
+cdn.ntv.ru
 cdn4.skygo.mn
 d2ah48mnofquik.cloudfront.net
 dz05z8iljgvbe.cloudfront.net
@@ -23,10 +23,10 @@ hls.mirtv.cdnvideo.ru
 igi-hls.cdnvideo.ru
 jmp2.uk
 lds-timeline-rakuten.amagi.tv
-live-3.otcnet.ru
 live-vgtrksmotrim.cdnvideo.ru
 live.15plusmg.ru
 moviesphereuk-samsunguk.amagi.tv
+nmk.ioapk.com
 planeta.mediacdn.ru
 rt-doc.rttv.com
 sirius.greenhosting.ru
