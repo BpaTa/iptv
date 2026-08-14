@@ -19,6 +19,7 @@ cdn.ntv.ru
 cdn4.skygo.mn
 d2ah48mnofquik.cloudfront.net
 dz05z8iljgvbe.cloudfront.net
+freem3u.xyz
 hls.mirtv.cdnvideo.ru
 igi-hls.cdnvideo.ru
 jmp2.uk
