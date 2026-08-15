@@ -32,7 +32,7 @@ from channels import CATEGORIES, BLOCKLIST_PATTERNS
 ROOT = Path(__file__).resolve().parent
 SOURCE_URLS = [
     # основной — все российские каналы
-    "https://iptv-org.github.io/iptv/countries/ru.m3u",
+    #"https://iptv-org.github.io/iptv/countries/ru.m3u",
     "https://smolnp.github.io/IPTVru//IPTVru.m3u",
     # глобальные категории — для премиум-брендов, которых в ru.m3u нет
     # (Cinema, Paramount, BBC Earth, Nat Geo Wild, Stingray, Disney,
