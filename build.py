@@ -38,14 +38,14 @@ SOURCE_URLS = [
     # (Cinema, Paramount, BBC Earth, Nat Geo Wild, Stingray, Disney,
     # Nickelodeon, Fox Sports, Premier Sports, BBC News, Al Jazeera,
     # Беларусь 24, CGTN Русский и т.п.).
-    "https://iptv-org.github.io/iptv/categories/religious.m3u",
-    "https://iptv-org.github.io/iptv/categories/movies.m3u",
-    "https://iptv-org.github.io/iptv/categories/news.m3u",
-    "https://iptv-org.github.io/iptv/categories/documentary.m3u",
-    "https://iptv-org.github.io/iptv/categories/kids.m3u",
-    "https://iptv-org.github.io/iptv/categories/music.m3u",
-    "https://iptv-org.github.io/iptv/categories/sports.m3u",
-    "https://iptv-org.github.io/iptv/categories/entertainment.m3u",
+    #"https://iptv-org.github.io/iptv/categories/religious.m3u",
+    #"https://iptv-org.github.io/iptv/categories/movies.m3u",
+    #"https://iptv-org.github.io/iptv/categories/news.m3u",
+    #"https://iptv-org.github.io/iptv/categories/documentary.m3u",
+    #"https://iptv-org.github.io/iptv/categories/kids.m3u",
+    #"https://iptv-org.github.io/iptv/categories/music.m3u",
+    #"https://iptv-org.github.io/iptv/categories/sports.m3u",
+    #"https://iptv-org.github.io/iptv/categories/entertainment.m3u",
 ]
 EPG_URL = "https://iptvx.one/EPG"
 OUT_MAIN = ROOT / "playlist.m3u"
