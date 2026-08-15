@@ -7,8 +7,12 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/maykop/russia1-hd/index.m3u8
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https
 #EXTINF:-1 tvg-id="Channel5.ru@SD" tvg-logo="https://i.imgur.com/KPXMa3U.png" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer" group-title="📺 Главные эфирные" tvg-name="Пятый канал",Пятый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="📺 Главные эфирные" tvg-name="ТВ Центр",ТВ Центр
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/960px-Rossiya-24_Logo.svg.png" group-title="📰 Новости" tvg-name="Россия 24",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
+#EXTINF:-1 tvg-id="rbk" tvg-logo="https://iptvx.one/picons/rbk.png" group-title="📰 Новости" tvg-name="РБК",РБК
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 tvg-id="Mir24.ru@SD" tvg-logo="https://i.imgur.com/dj9c8Yd.png" group-title="📰 Новости" tvg-name="Мир 24",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="360News.ru@SD" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="📰 Новости" tvg-name="360° Новости",360° Новости
@@ -43,10 +47,16 @@ http://stream.mcquack.net/265/index.m3u8
 http://31.148.48.15/Karusel_HD/index.m3u8
 #EXTINF:-1 tvg-id="Mult.ru@SD" tvg-logo="https://i.imgur.com/xi351Fx.png" group-title="👶 Детям" tvg-name="Мульт",Мульт
 http://31.148.48.15/Mult_HD/index.m3u8
+#EXTINF:-1 tvg-id="multimuzyka" tvg-logo="https://iptvx.one/picons/multimuzyka.png" group-title="👶 Детям" tvg-name="Мульт и Музыка",Мульт и Музыка
+http://31.210.208.171:8080/mult_i_muzika/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="Multimania.ru@SD" tvg-logo="https://i.imgur.com/abh8ZBA.png" group-title="👶 Детям" tvg-name="Мультимания",Мультимания
 https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="radost-moya" tvg-logo="https://iptvx.one/picons/radost-moya.png" group-title="👶 Детям" tvg-name="Радость моя",Радость моя
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="TiJi.ru@SD" tvg-logo="https://i.imgur.com/QCOUJ30.png" group-title="👶 Детям" tvg-name="TiJi",TiJi
 http://stream.mcquack.net/111/index.m3u8
+#EXTINF:-1 tvg-id="solnce" tvg-logo="https://iptvx.one/picons/solnce.png" group-title="👶 Детям" tvg-name="Солнце",Солнце
+http://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:-1 tvg-id="Ani.ru@SD" tvg-logo="https://i.imgur.com/i2AP0hp.png" group-title="👶 Детям" tvg-name="Ani",Ani
 http://46.32.176.50/anitv/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="👶 Детям" tvg-name="Disney Channel",Disney Channel
@@ -57,6 +67,8 @@ http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 http://176.61.157.250/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonJunior.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" group-title="👶 Детям" tvg-name="Nickelodeon Junior",Nickelodeon Junior
 http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
+#EXTINF:-1 tvg-id="domkino" tvg-logo="https://iptvx.one/picons/domkino.png" group-title="🎬 Кино и сериалы" tvg-name="Дом Кино",Дом Кино
+https://streaming.televizor-24-tochka.ru/live/44.m3u8
 #EXTINF:-1 tvg-id="DomkinoPremium.ru@SD" tvg-logo="https://i.imgur.com/rJpQtvK.png" group-title="🎬 Кино и сериалы" tvg-name="Дом Кино Премиум",Дом Кино Премиум
 http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru@SD" tvg-logo="https://i.imgur.com/sMpamNO.png" group-title="🎬 Кино и сериалы" tvg-name="КИНО ТВ",КИНО ТВ
@@ -77,6 +89,8 @@ http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
 #EXTINF:-1 tvg-id="MirSeriala.ru@SD" tvg-logo="https://i.imgur.com/uzj7wVp.png" group-title="🎬 Кино и сериалы" tvg-name="Мир Сериала",Мир Сериала
 http://31.148.48.15/Mir_Seriala/index.m3u8
+#EXTINF:-1 tvg-id="ntv-serial" tvg-logo="https://iptvx.one/picons/ntv-serial.png" group-title="🎬 Кино и сериалы" tvg-name="НТВ Сериал",НТВ Сериал
+https://cdn.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVHit.ru@SD" tvg-logo="https://i.imgur.com/FfKBvz5.png" group-title="🎬 Кино и сериалы" tvg-name="НТВ Хит",НТВ Хит
 https://cdn.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-name="Amedia Premium" group-title="🎬 Кино и сериалы",Amedia Premium
@@ -101,6 +115,8 @@ https://dz05z8iljgvbe.cloudfront.net/master.m3u8
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere.us@UK" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="💎 Премиум-кино" tvg-name="MovieSphere UK",MovieSphere UK
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="kultura" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="📚 Культура и наука" tvg-name="Россия К",Россия К
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="Nauka.ru@SD" tvg-logo="https://i.imgur.com/ZZxzueO.png" group-title="📚 Культура и наука" tvg-name="НАУКА",НАУКА
 http://31.148.48.15/Nauka_2.0/index.m3u8
 #EXTINF:-1 tvg-id="TravelPlusAdventure.ru@SD" tvg-logo="https://i.imgur.com/AlpdXC4.png" group-title="📚 Культура и наука" tvg-name="Travel+Adventure",Travel+Adventure
