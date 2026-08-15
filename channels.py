@@ -18,7 +18,7 @@ CATEGORIES = [
     {
         "title": "📺 Главные эфирные",
         "channels": [
-            {"name": "Первый канал",        "patterns": [r"^Первый канал"],                "prefer": "1080"},
+            {"name": "Первый канал",        "patterns": [r"^Первый канал", r"^Channel One HD"],  "prefer": "1080"},
             {"name": "Россия 1",            "patterns": [r"^Россия 1(?! HD)(?! \(\+)"],    "prefer": "1080"},
             {"name": "НТВ",                 "patterns": [r"^NTV HD", r"^НТВ \("],          "prefer": "1080"},
             {"name": "Пятый канал",         "patterns": [r"^Пятый Канал"],                 "prefer": "540"},
