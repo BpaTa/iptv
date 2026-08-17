@@ -2,7 +2,6 @@
 176.118.197.101
 176.61.157.250
 31.148.48.15
-40.160.24.56
 45.145.32.13
 45.190.28.50
 46.32.176.50
@@ -31,6 +30,7 @@ nmk.ioapk.com
 planeta.mediacdn.ru
 rt-doc.rttv.com
 sirius.greenhosting.ru
+sra72yz.s.gy
 stream.mcquack.net
 stream8.cinerama.uz
 tvoetv.space
