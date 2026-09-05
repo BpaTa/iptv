@@ -33,4 +33,3 @@ stream.mcquack.net
 stream8.cinerama.uz
 tvoetv.space
 vgtrkregion-reg.cdnvideo.ru
-zabava-htlive.cdn.ngenix.net
