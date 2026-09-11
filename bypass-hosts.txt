@@ -3,7 +3,6 @@
 176.61.157.250
 31.148.48.15
 45.145.32.13
-45.190.28.50
 46.32.176.50
 86fdc85a.wurl.com
 9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com
@@ -16,6 +15,7 @@ bl.rutube.ru
 cdn-evacoder-tv.facecast.io
 cdn4.skygo.mn
 d2ah48mnofquik.cloudfront.net
+dash4.antik.sk
 dz05z8iljgvbe.cloudfront.net
 freem3u.xyz
 hls.mirtv.cdnvideo.ru
