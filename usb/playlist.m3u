@@ -19,8 +19,8 @@ http://31.148.48.15/Karusel_HD/index.m3u8
 http://stream.mcquack.net/111/index.m3u8
 #EXTINF:-1 tvg-id="Ani.ru@SD" tvg-logo="https://i.imgur.com/i2AP0hp.png" group-title="👶 Детям" tvg-name="Ani",Ani
 http://46.32.176.50/anitv/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" group-title="👶 Детям" tvg-name="Disney Junior",Disney Junior
-http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png" group-title="👶 Детям" tvg-name="Disney Junior",Disney Junior
+http://51.75.127.199:3141/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonJunior.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" group-title="👶 Детям" tvg-name="Nickelodeon Junior",Nickelodeon Junior
 http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 #EXTINF:-1 tvg-id="alphaCinema.ru@HD" tvg-logo="https://i.imgur.com/146OgfU.png" group-title="🎬 Кино и сериалы" tvg-name="alpha Cinema",alpha Cinema
