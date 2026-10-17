@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG" x-tvg-url="https://iptvx.one/EPG"
+#EXTINF:-1 tvg-id="1HDMusicTelevision.ru@HD" tvg-logo="https://i.imgur.com/4Ww7CsR.png" group-title="📺 Главные эфирные" tvg-name="Россия 1",Россия 1
+http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 tvg-id="360.ru@SD" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="📰 Новости" tvg-name="360°",360°
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="📰 Новости" tvg-name="Euronews",Euronews
