@@ -6,7 +6,7 @@ https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/ind
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="📰 Новости" tvg-name="Euronews",Euronews
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 #EXTINF:-1 tvg-id="2x2.ru@SD" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="🎭 Развлекательные" tvg-name="2x2",2x2
-https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https
+http://176.118.197.101/2x2/index.m3u8
 #EXTINF:-1 tvg-id="Subbota.ru@SD" tvg-logo="https://i.imgur.com/nsk8PpB.png" group-title="🎭 Развлекательные" tvg-name="Субботa!",Субботa!
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=https
 #EXTINF:-1 tvg-id="STSLove.ru@SD" tvg-logo="https://i.imgur.com/YBVZoDd.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="🎭 Развлекательные" tvg-name="STS Love",STS Love
@@ -18,7 +18,7 @@ http://stream.mcquack.net/265/index.m3u8
 #EXTINF:-1 tvg-id="Carousel.ru@SD" tvg-logo="https://i.imgur.com/4wmnx1W.png" group-title="👶 Детям" tvg-name="Карусель",Карусель
 http://31.148.48.15/Karusel_HD/index.m3u8
 #EXTINF:-1 tvg-id="TiJi.ru@SD" tvg-logo="https://i.imgur.com/QCOUJ30.png" group-title="👶 Детям" tvg-name="TiJi",TiJi
-http://stream.mcquack.net/111/index.m3u8
+http://flussonic.linkintel.ru/tiji/index.m3u8
 #EXTINF:-1 tvg-id="Ani.ru@SD" tvg-logo="https://i.imgur.com/i2AP0hp.png" group-title="👶 Детям" tvg-name="Ani",Ani
 http://46.32.176.50/anitv/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png" group-title="👶 Детям" tvg-name="Disney Junior",Disney Junior
@@ -68,4 +68,4 @@ https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-name="Усадьба" group-title="🍳 Дом и стиль",Усадьба
 https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Zoopark.ru@SD" tvg-logo="https://i.imgur.com/IO5jegK.png" group-title="🍳 Дом и стиль" tvg-name="Зоопарк",Зоопарк
-https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
+https://fs.uplink.kz/zoopark/mono.m3u8?token=onlinetv

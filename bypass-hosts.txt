@@ -16,7 +16,9 @@ cdn-evacoder-tv.facecast.io
 cdn4.skygo.mn
 d2ah48mnofquik.cloudfront.net
 dash4.antik.sk
+flussonic.linkintel.ru
 freem3u.xyz
+fs.uplink.kz
 jmp2.uk
 lds-timeline-rakuten.amagi.tv
 live.15plusmg.ru
