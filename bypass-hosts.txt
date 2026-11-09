@@ -21,7 +21,6 @@ jmp2.uk
 lds-timeline-rakuten.amagi.tv
 live.15plusmg.ru
 moviesphereuk-samsunguk.amagi.tv
-nmk.ioapk.com
 rt-doc.rttv.com
 stream.mcquack.net
 stream8.cinerama.uz
