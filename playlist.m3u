@@ -21,8 +21,8 @@ http://31.148.48.15/Karusel_HD/index.m3u8
 http://flussonic.linkintel.ru/tiji/index.m3u8
 #EXTINF:-1 tvg-id="Ani.ru@SD" tvg-logo="https://i.imgur.com/i2AP0hp.png" group-title="👶 Детям" tvg-name="Ani",Ani
 http://46.32.176.50/anitv/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png" group-title="👶 Детям" tvg-name="Disney Junior",Disney Junior
-https://tvnow.hostless.app/disney-junior.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="👶 Детям" tvg-name="Disney Junior",Disney Junior
+http://111.88.7.92:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonJunior.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" group-title="👶 Детям" tvg-name="Nickelodeon Junior",Nickelodeon Junior
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="alphaCinema.ru@HD" tvg-logo="https://i.imgur.com/146OgfU.png" group-title="🎬 Кино и сериалы" tvg-name="alpha Cinema",alpha Cinema
